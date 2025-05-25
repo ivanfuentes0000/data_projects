@@ -2,5 +2,5 @@ Portfolio of completed projects I worked on while attending the Business Intelli
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1| [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 1| [AirBnb](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 
