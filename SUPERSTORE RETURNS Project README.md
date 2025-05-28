@@ -18,4 +18,4 @@
 
 ### Investigate the reasons for high returns in "Binders" and "Machines." This could involve product quality issues, inaccurate descriptions, or shipping problems. Analyze the geographic data to identify specific regions with high return rates and tailor strategies accordingly. Explore the seasonal patterns in returns to optimize inventory and customer service during peak periods. Further investigate the outliers in the sales vs. returns scatterplot to understand unique cases.
 
-### This analysis utilizes the \[Superstore sales data\] and was created using \[Tableau\].[HERE](https://public.tableau.com/authoring/SuperstoreProejct/Story1#1) 
+### This analysis utilizes the \[Superstore sales data\] and was created using \[Tableau\].[HERE](https://public.tableau.com/views/SuperstoreProject_17484710585680/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
